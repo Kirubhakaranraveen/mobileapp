@@ -1,0 +1,30 @@
+.paris{
+    border: 1px solid red;
+    width:250px; height: 300px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 5px;
+    background-color:white;color: red;
+    box-shadow: 4px 4px 9px gray;
+    position: absolute;top: 205px;
+    position: absolute;left: 550px;
+}
+h1{
+    position: absolute;top: 90px;
+    position: absolute;left: 570px;
+}
+.fas{
+    text-decoration: none;
+    color: red;
+    position: absolute;bottom: 10px; 
+    position: absolute;right: 20px;
+}
+.fal{
+    position: absolute;top: 120px;
+    position: absolute;left: 530px;
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+

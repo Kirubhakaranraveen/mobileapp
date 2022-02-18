@@ -1,0 +1,100 @@
+.box1{
+    border: 1px solid red;
+    width: 280px;height: 30px;
+    border-radius: 10px;
+    position: absolute;left: 600px;
+    position: absolute;top: 170px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 8px gray;
+}
+.box2{
+    border: 1px solid red;
+    width: 280px;height: 30px;
+    border-radius: 10px;
+    position: absolute;left: 600px;
+    position: absolute;top: 260px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 8px gray;
+}
+.box3{
+    border: 1px solid red;
+    width: 280px;height: 30px;
+    border-radius: 10px;
+    position: absolute;top: 360px;
+    position: absolute;left: 600px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 8px gray;
+}
+.box4{
+    border: 1px solid red;
+    width: 280px;height: 30px;
+    border-radius: 10px;
+    position: absolute;top: 460px;
+    position: absolute;left: 600px;
+    padding-top: 20px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 8px gray;
+}
+.box5{
+    border: 1px solid red;
+    width: 280px;height: 30px;
+    border-radius: 10px;
+    padding-top: 20px;
+    position: absolute;top: 560px;
+    position: absolute;left: 600px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 8px gray;
+
+}
+h1{
+position: absolute;top:80px;
+position: absolute;left: 560px;
+padding-top:1px;
+border: 1px solid black;
+width: 350px;height: 550px;
+padding-left: 30px;
+padding-top: 20px;
+}
+h2{
+    position: absolute;top:100px;
+    position: absolute;left: 650px;
+    padding-top:1px;
+    width: 350px;height: 550px;
+    padding-left: 30px;
+    padding-top: 9px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.fas{
+    position: absolute;top: 100px;
+    position: absolute;left: 840px;
+    height: 50px;
+    color: red;
+}
+
+a{
+    text-decoration: none;color: black;
+}
+.card{
+    border: 1px solid red;
+    width: 300px;height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    position: absolute;left: 600px;
+    position: absolute; top: 300px;
+    background-color: white;color: red;
+}
+p{
+    border: 1px solid red;
+    width: 50px;height: 20px;
+    position: absolute;left: 120px;
+    border-radius: 10px;
+    background-color: red;color: white;
+}
+.parent{
+    filter: blur(8px);
+}
